@@ -4,32 +4,23 @@
 - **list operation2 output lint**--(https://github.com/rithika2705/Advanced-java-programs/blob/main/prg1-listinterface/list_operations2.png)
 ---
 
-### 1b.  Array List programs
-- **Color Search output link** -(https://github.com/rithika2705/Advanced-java-programs/blob/main/prg1-listinterface/1b_1(color%20search).png)
-- **Color Remove output link**- (https://github.com/rithika2705/Advanced-java-programs/blob/main/prg1-listinterface/1b_1(color%20remove).png)
-- **Color Sort output link**-(https://github.com/rithika2705/Advanced-java-programs/blob/main/prg1-listinterface/1b_1(color%20sort).png)
-- **Color Extract output link**(https://github.com/rithika2705/Advanced-java-programs/blob/main/prg1-listinterface/1b_1(color%20extract).png)
-- **Color Delete output link**(https://github.com/rithika2705/Advanced-java-programs/blob/main/prg1-listinterface/1b_1(color%20delete).png)
+### 1b) Array List programs
+- **Color Search output link** --(https://github.com/rithika2705/Advanced-java-programs/blob/main/prg1-listinterface/1b_1(color%20search).png)
+- **Color Remove output link**-- (https://github.com/rithika2705/Advanced-java-programs/blob/main/prg1listinterface/1b_1(color%20remove).png)
+- **Color Sort output link**--(https://github.com/rithika2705/Advanced-java-programs/blob/main/prg1listinterface/1b_1(color%20sort).png)
+- **Color Extract output link**--(https://github.com/rithika2705/Advanced-java-programs/blob/main/prg1listinterface/1b_1(color%20extract).png)
+- **Color Delete output link**--(https://github.com/rithika2705/Advanced-java-programs/blob/main/prg1listinterface/1b_1(color%20delete).png)
 
 
 ---
 
 ### 1c. Linked List Programs
 
-1. Write a Java program to iterate through all elements in a linked list starting at the specified position ( 2nd) using iterator ( hint : Iterator iteratorobj = listobj.listIterator(1))
-   🔗 [Output Screenshot](Exp1-ListInterface/p6.png)
-
-2. Write a Java program to iterate a linked list in reverse order (using objlist.descendingIterator())
-   🔗 [Output Screenshot](Exp1-ListInterface/p7.png)
-
-3. Write a Java program to insert the specified element at the end of a linked list.( using l\_listobj.offerLast("Pink"))
-   🔗 [Output Screenshot](Exp1-ListInterface/p8.png)
-
-4. Write a Java program to display elements and their positions in a linked list ( using l\_listobj.get(p) )
-   🔗 [Output Screenshot](Exp1-ListInterface/p9.png)
-
-5. Write a Java program that swaps two elements ( first and third elements ) in a linked list  ( using Collections.swap(l\_list, 0, 2))
-   🔗 [Output Screenshot](Exp1-ListInterface/p10.png)
+- **Iteration From Second position output link** --(https://github.com/rithika2705/Advanced-javaprograms/blob/main/prg1listinterface/1c_1(iteration%20from%202nd%20position).png)
+- **Reverse Iterator output link** --(https://github.com/rithika2705/Advanced-java-programs/blob/main/prg1-listinterface/1c_2(ReverseIterator).png)
+- **Insert at end output link** --(https://github.com/rithika2705/Advanced-java-programs/blob/main/prg1listinterface/1c_3(Insert%20at%20end).png)
+- **Display the elements** --(https://github.com/rithika2705/Advanced-javaprograms/blob/main/prg1listinterface/1c_4(display%20the%20elements).png)
+- **Swap elements**--(https://github.com/rithika2705/Advanced-java-programs/blob/main/prg1-listinterface/1c_5(swap%20elements.png)
 
 ---
 
