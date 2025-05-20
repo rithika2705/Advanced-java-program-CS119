@@ -1,6 +1,7 @@
-## 1a) LIST OPERATIONS
-list oprtation1 output link---()
-list operation12 output lint---()
+### 1a) List operations
+
+- **list oprtation1 output link**--(https://github.com/rithika2705/Advanced-java-programs/blob/main/prg1-listinterface/list_operations1.png)
+- **list operation12 output lint**--(https://github.com/rithika2705/Advanced-java-programs/blob/main/prg1-listinterface/list_operations2.png)
 ---
 
 ### 1b.  Array List programs
