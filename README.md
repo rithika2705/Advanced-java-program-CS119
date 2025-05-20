@@ -1,26 +1,16 @@
-5### 1.a  Develop a Java program for adding elements   \[Apple, Banana, Orange] into an ArrayList and a  LinkedList  to  perform the   following  operations  with  different  functions  directed  as follows
+### 1a) List operations
 
-1. Adding elements,   2. Adding element at specific index, 3. Adding multiple elements, 4. Accessing elements,5. Updating elements, 6. Removing elements,  7. Searching elements,  8. List size, 9. Iterating over list, 10. Using Iterator,  11. Sorting, 12. Sublist, 13. Clearing the list
-   🔗 [Output Screenshot](Exp1-ListInterface/ArrayWorkedOutEx.png)
-
+- **list opertation1 output link**--(https://github.com/rithika2705/Advanced-java-programs/blob/main/prg1-listinterface/list_operations1.png)
+- **list operation2 output lint**--(https://github.com/rithika2705/Advanced-java-programs/blob/main/prg1-listinterface/list_operations2.png)
 ---
 
 ### 1b.  Array List programs
+- **Color Search output link** -()
+- **Color Remove output link**- ()
+- **Color Sort output link**-()
+- **Color Extract output link**()
+- **Color Remove output link**()
 
-1. Write a java program for getting different colors through ArrayList interface and search whether the color "Red" is available or not
-   🔗 [Output Screenshot](Exp1-ListInterface/p1.png)
-
-2. Write a java program for getting different colors through ArrayList interface and remove the 2nd element and color "Blue" from the ArrayList
-   🔗 [Output Screenshot](Exp1-ListInterface/p2.png)
-
-3. Write a java program for getting different colors through ArrayList interface and  sort them using Collections.sort( ArrayListObj)
-   🔗 [Output Screenshot](Exp1-ListInterface/p3.png)
-
-4. Write a java program for getting different colors through ArrayList interface and extract the elements 1st and 2nd from the ArrayList object  by  using SubList()
-   🔗 [Output Screenshot](Exp1-ListInterface/p4.png)
-
-5. Write a java program for getting different colors through ArrayList interface and delete nth  element from the ArrayList object  by  using remove by index
-   🔗 [Output Screenshot](Exp1-ListInterface/p5.png)
 
 ---
 
