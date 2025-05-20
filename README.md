@@ -91,23 +91,36 @@ Iteration Demonstration : Using for-each loop,Using Iterator
 
 
 ---
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+
+ 
+ https://github.com/rithika2705/Advanced-java-programs/blob/main/prg3-StringOperations/3c_4(random%20string).png
+ https://github.com/rithika2705/Advanced-java-programs/blob/main/prg3-StringOperations/3c_5(word%20counter).png
 ### 3) String operations programs
 ### 3a)
-- **String operation demo output link**--()
+- **String operation demo output link**--(https://github.com/rithika2705/Advanced-java-programs/blob/main/prg3-StringOperations/3a-(String%20operations%20demo).png)
   
 - ### 3b)
-- -**check null or whitespace output link**--()
-- **substring counter output link** -()
-- **reverse string demo outpit link**-()
-- **palindrome output link**-()
-- **remove white space output link**-()
+- -**check null or whitespace output link**--(https://github.com/rithika2705/Advanced-java-programs/blob/main/prg3-StringOperations/3b_1(check%20null%20or%20whitespace).png)
+- **substring counter output link** -(https://github.com/rithika2705/Advanced-java-programs/blob/main/prg3-StringOperations/3b_2(substring%20counter).png)
+- **reverse string demo output link**-(https://github.com/rithika2705/Advanced-java-programs/blob/main/prg3-StringOperations/3b_3(reverse%20string%20demo).png)
+- **palindrome output link**-( https://github.com/rithika2705/Advanced-java-programs/blob/main/prg3-StringOperations/3b_4(palindrome).png)
+- **remove white space output link**-( https://github.com/rithika2705/Advanced-java-programs/blob/main/prg3-StringOperations/3b_5(remove%20white%20spaces).png
+ )
 
   ### 3c)
-  -- **capitalize words demo output link**-()
-  --**shortening a string output link**-()
-  --**numeric check output link**-()
-  --**random string output linl**-()
-  --**word counter output link**-()
+  -- **capitalize words demo output link**-(https://github.com/rithika2705/Advanced-java-programs/blob/main/prg3-StringOperations/3c_1(capitalize%20words%20demo).png)
+  --**shortening a string output link**-( https://github.com/rithika2705/Advanced-java-programs/blob/main/prg3-StringOperations/3c_2(ShorteningAString).png)
+  --**numeric check output link**-(https://github.com/rithika2705/Advanced-java-programs/blob/main/prg3-StringOperations/3c_3(Numeric%20check).png)
+  --**random string output linl**-( https://github.com/rithika2705/Advanced-java-programs/blob/main/prg3-StringOperations/3c_4(random%20string).png)
+  --**word counter output link**-( https://github.com/rithika2705/Advanced-java-programs/blob/main/prg3-StringOperations/3c_5(word%20counter).png)
   
 
 ---
