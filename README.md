@@ -8,7 +8,7 @@
 - **Color Search output link** --(https://github.com/rithika2705/Advanced-java-programs/blob/main/prg1-listinterface/1b_1(color%20search).png)
 - **Color Remove output link**-- (https://github.com/rithika2705/Advanced-java-programs/blob/main/prg1listinterface/1b_1(color%20remove).png)
 - **Color Sort output link**--(https://github.com/rithika2705/Advanced-java-programs/blob/main/prg1listinterface/1b_1(color%20sort).png)
-- **Color Extract output link**--(https://github.com/rithika2705/Advanced-java-programs/blob/main/prg1listinterface/1b_1(color%20extract).png)
+-**Color Extract output link**--(https://github.com/rithika2705/Advanced-java-programs/blob/main/prg1listinterface/1b_1(color%20extract).png)
 - **Color Delete output link**--(https://github.com/rithika2705/Advanced-java-programs/blob/main/prg1listinterface/1b_1(color%20delete).png)
 
 
