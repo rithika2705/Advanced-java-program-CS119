@@ -117,10 +117,10 @@ Iteration Demonstration : Using for-each loop,Using Iterator
 
   ### 3c)String Exercise progams
   - **capitalize words demo output link**-(https://github.com/rithika2705/Advanced-java-programs/blob/main/prg3-StringOperations/3c_1(capitalize%20words%20demo).png)
-  **shortening a string output link**-( https://github.com/rithika2705/Advanced-java-programs/blob/main/prg3-StringOperations/3c_2(ShorteningAString).png)
-  -**numeric check output link**-(https://github.com/rithika2705/Advanced-java-programs/blob/main/prg3-StringOperations/3c_3(Numeric%20check).png)
-  -**random string output linl**-( https://github.com/rithika2705/Advanced-java-programs/blob/main/prg3-StringOperations/3c_4(random%20string).png)
-  -**word counter output link**-( https://github.com/rithika2705/Advanced-java-programs/blob/main/prg3-StringOperations/3c_5(word%20counter).png)
+  - **shortening a string output link**-( https://github.com/rithika2705/Advanced-java-programs/blob/main/prg3-StringOperations/3c_2(ShorteningAString).png)
+  - **numeric check output link**-(https://github.com/rithika2705/Advanced-java-programs/blob/main/prg3-StringOperations/3c_3(Numeric%20check).png)
+  - **random string output linl**-( https://github.com/rithika2705/Advanced-java-programs/blob/main/prg3-StringOperations/3c_4(random%20string).png)
+  - **word counter output link**-( https://github.com/rithika2705/Advanced-java-programs/blob/main/prg3-StringOperations/3c_5(word%20counter).png)
   
 
 ---
