@@ -1,22 +1,24 @@
 /*
- 9.Write a Java program to display elements and their positions in a linked list
+ 1c_4--->Write a Java program to display elements and their positions in a linked list ( using
+l_listobj.get(p) )
  */
-package listInterface;
+package prg_1c_4;
 import java.util.*;
+public class DisplayElementsWithPosition {
+	    public static void main(String[] args) {
 
-public class array_index {
+	        // Creating LinkedList 'l' and adding some colors
+	        LinkedList<String> l = new LinkedList<>();
+	        l.add("Red");
+	        l.add("Green");
+	        l.add("Blue");
+	        l.add("Yellow");
+	        l.add("Black");
 
-	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-		LinkedList<String> ls = new LinkedList<>();
-		ls.add("Orange");
-		ls.add("geen");
-		ls.add("pink");
-		ls.add("red");
-		ls.add("Blue");
-		for(int i=0;i<ls.size();i++) {
-			System.out.println("index: "+i+" value:"+ls.get(i));
-		}
+	        // Displaying elements with their positions
+	        System.out.println("Elements and their positions in LinkedList l:");
+	        for (int p = 0; p < l.size(); p++) {
+	            System.out.println("Position " + p + ": " + l.get(p));
+	        }
+	    }
 	}
-
-}

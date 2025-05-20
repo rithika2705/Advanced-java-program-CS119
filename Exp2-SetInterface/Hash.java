@@ -5,7 +5,7 @@
  */
 package ex1;
 import java.util.*;
-public class HashmapEntry {
+public class Hash {
 	public static void main(String [] arg)
 	{
 		HashMap<Integer,String> m=new HashMap<>();

@@ -3,7 +3,7 @@ Write a Java program to insert the specified element at the end of a linked list
 l_listobj.offerLast("Pink"))*/
 package prg_1c_3;
 import java.util.*;
-public class InserAtEnd {
+public class InsertAtEnd {
 	    public static void main(String[] args) {
 
 	        // Creating LinkedList 'l' and adding some colors
