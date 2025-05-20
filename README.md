@@ -20,9 +20,8 @@
 - **Reverse Iterator output link** --(https://github.com/rithika2705/Advanced-java-
 - programs/blob/main/prg1-listinterface/1c_2(ReverseIterator).png)
 - **Insert at end output link** --(https://github.com/rithika2705/Advanced-java-programs/blob/main/prg1listinterface/1c_3(Insert%20at%20end).png)
-- **Display the elements** --(https://github.com/rithika2705/Advanced-java-programs/blob/main/prg1listinterface/1c_4(display%20the%20elements).png)
-- **Swap elements**--(https://github.com/rithika2705/Advanced-java-
-    programs/blob/main/prg1-listinterface/1c_5(swap%20elements.png)
+- **Display the elements** --(https://github.com/rithika2705/Advanced-javaprograms/blob/main/prg1listinterface/1c_4(display%20the%20elements).png)
+- **Swap elements**--(https://github.com/rithika2705/Advanced-java- programs/blob/main/prg1-listinterface/1c_5(swap%20elements.png)
 
 ---
 
