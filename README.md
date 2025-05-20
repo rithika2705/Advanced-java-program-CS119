@@ -107,7 +107,7 @@ Iteration Demonstration : Using for-each loop,Using Iterator
 ### 3a)
 - **String operation demo output link**--(https://github.com/rithika2705/Advanced-java-programs/blob/main/prg3-StringOperations/3a-(String%20operations%20demo).png)
   
-- ### 3b)
+ ### 3b)
 - -**check null or whitespace output link**--(https://github.com/rithika2705/Advanced-java-programs/blob/main/prg3-StringOperations/3b_1(check%20null%20or%20whitespace).png)
 - **substring counter output link** -(https://github.com/rithika2705/Advanced-java-programs/blob/main/prg3-StringOperations/3b_2(substring%20counter).png)
 - **reverse string demo output link**-(https://github.com/rithika2705/Advanced-java-programs/blob/main/prg3-StringOperations/3b_3(reverse%20string%20demo).png)
@@ -116,11 +116,11 @@ Iteration Demonstration : Using for-each loop,Using Iterator
  )
 
   ### 3c)
-  -- **capitalize words demo output link**-(https://github.com/rithika2705/Advanced-java-programs/blob/main/prg3-StringOperations/3c_1(capitalize%20words%20demo).png)
-  --**shortening a string output link**-( https://github.com/rithika2705/Advanced-java-programs/blob/main/prg3-StringOperations/3c_2(ShorteningAString).png)
-  --**numeric check output link**-(https://github.com/rithika2705/Advanced-java-programs/blob/main/prg3-StringOperations/3c_3(Numeric%20check).png)
-  --**random string output linl**-( https://github.com/rithika2705/Advanced-java-programs/blob/main/prg3-StringOperations/3c_4(random%20string).png)
-  --**word counter output link**-( https://github.com/rithika2705/Advanced-java-programs/blob/main/prg3-StringOperations/3c_5(word%20counter).png)
+  - **capitalize words demo output link**-(https://github.com/rithika2705/Advanced-java-programs/blob/main/prg3-StringOperations/3c_1(capitalize%20words%20demo).png)
+  **shortening a string output link**-( https://github.com/rithika2705/Advanced-java-programs/blob/main/prg3-StringOperations/3c_2(ShorteningAString).png)
+  -**numeric check output link**-(https://github.com/rithika2705/Advanced-java-programs/blob/main/prg3-StringOperations/3c_3(Numeric%20check).png)
+  -**random string output linl**-( https://github.com/rithika2705/Advanced-java-programs/blob/main/prg3-StringOperations/3c_4(random%20string).png)
+  -**word counter output link**-( https://github.com/rithika2705/Advanced-java-programs/blob/main/prg3-StringOperations/3c_5(word%20counter).png)
   
 
 ---
