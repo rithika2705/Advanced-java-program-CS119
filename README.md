@@ -5,7 +5,11 @@
 ---
 
 ### 1b.  Array List programs
-- 
+- **Color Search output link** -()
+- **Color Remove output link**- ()
+- **Color Sort output link**-()
+- **Color Extract output link**()
+- **Color Remove output link**()
 
 
 ---
