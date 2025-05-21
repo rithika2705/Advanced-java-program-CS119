@@ -7,7 +7,7 @@ pageEncoding="ISO-8859-1"%>
 <title>Insert title here</title>
 </head>
 <body>
-<h1>Display the session value on this page</h1>
+<h1>Display the session value on this page</h1> 
 <%
 String name=(String)session.getAttribute("user");
 if(name==null)
