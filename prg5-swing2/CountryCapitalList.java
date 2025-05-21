@@ -9,7 +9,7 @@ package swingprogrmas;
 import javax.swing.*;
 import javax.swing.event.*;
 import java.awt.*;
-import java.util.*;
+import java.util.*; 
 import java.util.List;     
 public class CountryCapitalList {
 	public static void main(String[] args) {
