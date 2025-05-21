@@ -9,7 +9,7 @@ import javax.servlet.http.*;
 import javax.servlet.annotation.WebServlet;
 
 @WebServlet("/CookieServlet")
-public class CookieServlet extends HttpServlet {
+public class CookieServlet extends HttpServlet { 
 int count=0; // count for loading times
 // Step 3: Handle GET requests
 public void doGet(HttpServletRequest request, HttpServletResponse response)
