@@ -5,7 +5,7 @@ existing coffee product  in the table with its id. [Create a table coffee with f
 <%@ page import="java.sql.*" %>
 <html>
 <head><title>Update Coffee</title></head>
-<body>
+<body> 
 
 <h2>Update Coffee Product</h2>
 <form method="post">
