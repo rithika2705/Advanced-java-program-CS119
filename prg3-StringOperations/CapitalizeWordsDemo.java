@@ -3,7 +3,7 @@
 capitalizeWords()
  */
 package strings;
-
+ 
 public class capitalizeWords {
 
 	public static String capitalizeWords(String str) {
