@@ -3,6 +3,7 @@
 package prg_1b_2;
 import java.util.*;
 
+
 public class ColorRemove {
 	    public static void main(String[] args) {
 
