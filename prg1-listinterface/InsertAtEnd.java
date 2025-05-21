@@ -6,7 +6,7 @@ import java.util.*;
 public class InsertAtEnd {
 	    public static void main(String[] args) {
 
-	        // Creating LinkedList 'l' and adding some colors
+	        // Creating LinkedList 'l' and adding some colors 
 	        LinkedList<String> l = new LinkedList<>();
 	        l.add("Red");
 	        l.add("Green");
