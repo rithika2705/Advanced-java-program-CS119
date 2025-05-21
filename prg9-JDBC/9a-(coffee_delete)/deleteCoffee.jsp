@@ -7,7 +7,7 @@ HTML and JSP to get the field and display the results respectively-->
     final String JDBC_URL = "jdbc:mysql://localhost:3306/test?useSSL=false&serverTimezone=UTC";
     final String DB_USER  = "root";   
     final String DB_PASS  = "";       
-   
+    
 
     String idStr = request.getParameter("id");   
 
