@@ -66,7 +66,7 @@
 - **c)prime servlet output link**-(https://github.com/rithika2705/Advanced-java-programs/blob/main/prg6-servlet/PrimeServlet/6c-(PrimeServlet).png)
 ---
 
-### 7
+### 7 session and cookie management
 - **cookie management output link 1**-(https://github.com/rithika2705/Advanced-java-programs/blob/main/prg7-CookieManagement/7b-(c1).png)
 - **cookie management output link 2**-(https://github.com/rithika2705/Advanced-java-programs/blob/main/prg7-CookieManagement/7b-(c2).png)
  - **session management output link 1**-(https://github.com/rithika2705/Advanced-java-programs/blob/main/prg7-SessionManagement/7a-(s1).png)
