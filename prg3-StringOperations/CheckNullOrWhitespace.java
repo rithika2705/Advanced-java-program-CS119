@@ -3,7 +3,7 @@
 defined function isNullOrEmpty().
 */
 package prg3a;
-import java.util.*;
+import java.util.*; 
 public class CheckNullOrWhitespace {
 	    public static void main(String[] args) {
 	        Scanner sc = new Scanner(System.in);
