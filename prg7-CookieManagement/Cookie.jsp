@@ -4,7 +4,7 @@
 <%@ page import="java.text.SimpleDateFormat" %>
 <!DOCTYPE html>
 <html>
-
+ 
 <head>
 <title>Setting Cookie</title>
 <style>
