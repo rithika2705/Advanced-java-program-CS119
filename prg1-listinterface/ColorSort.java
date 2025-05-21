@@ -6,7 +6,7 @@ import java.util.*;
 public class ColorSort {
 	    public static void main(String[] args) {
 
-	        // 1. Creating ArrayList 'a' to store colors
+	        // 1. Creating ArrayList 'a' to store colors 
 	        ArrayList<String> a = new ArrayList<>();
 
 	        // 2. Adding colors to the list
