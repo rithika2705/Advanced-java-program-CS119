@@ -7,7 +7,7 @@ package Swings;
  import java.awt.Font;
  //A simple Swing application.
  import javax.swing.*;
- class  SwingExample  {
+ class  SwingExample  { 
  SwingExample () {
  //Create a new JFrame container.
  JFrame jfrm = new JFrame("A Simple Swing Application");
