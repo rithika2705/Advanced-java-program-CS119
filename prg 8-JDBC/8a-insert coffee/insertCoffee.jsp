@@ -2,7 +2,7 @@
  new coffee product into it [Create a table coffee with fields ( id,coffee_name,price)] using HTML and 
 JSP to get the fields and display the results respectively*/
 
-<%@ page import="java.sql.*" %>
+<%@ page import="java.sql.*" %> 
 <%
     String jdbcURL = "jdbc:mysql://localhost:3306/test";
     String dbUser = "root";      
