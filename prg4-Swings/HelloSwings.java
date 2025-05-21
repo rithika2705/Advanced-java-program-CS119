@@ -4,7 +4,7 @@ Programming in Blue color plain font with font size of 32 using Jframe and Jlabe
  */
 package Swings;
  import java.awt.Color;
- import java.awt.Font;
+ import java.awt.Font; 
  //A simple Swing application.
  import javax.swing.*;
  class  SwingExample  { 
