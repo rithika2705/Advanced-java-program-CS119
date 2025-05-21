@@ -3,7 +3,7 @@ into the table Emp of the database Employee by getting the fields through keyboa
 Generate the report as follows for the TABLE Emp (Emp_NO , Emp_Name, Basicsalary ) using
 HTML and JSP to get the fields and display the results respectively
 
-Salary Report
+Salary Report 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Emp_No : 101
