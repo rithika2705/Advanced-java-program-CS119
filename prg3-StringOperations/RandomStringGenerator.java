@@ -3,7 +3,7 @@
 function generateRandomString()
  */
 package strings;
-import java.util.Random;
+import java.util.Random; 
 public class randomString {
     public static String RandomString(int length) {
      
