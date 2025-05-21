@@ -101,8 +101,7 @@ Iteration Demonstration : Using for-each loop,Using Iterator
  
 
  
- https://github.com/rithika2705/Advanced-java-programs/blob/main/prg3-StringOperations/3c_4(random%20string).png
- https://github.com/rithika2705/Advanced-java-programs/blob/main/prg3-StringOperations/3c_5(word%20counter).png
+
 
 ### 3a)String operations
 - **String operation demo output link**--(https://github.com/rithika2705/Advanced-java-programs/blob/main/prg3-StringOperations/3a-(String%20operations%20demo).png)
