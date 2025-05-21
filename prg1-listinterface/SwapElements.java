@@ -10,7 +10,7 @@ public class SwapElements {
 	        LinkedList<String> l = new LinkedList<>();
 	        l.add("Red");   
 	        l.add("Green");  
-	        l.add("Blue");    
+	        l.add("Blue");     
 	        l.add("Yellow");  
 	        l.add("Black");
 
