@@ -4,7 +4,7 @@ package prg_1b_1;
 import java.util.*;
 public class ColorSearch {
 	    public static void main(String[] args) {
-
+ 
 	        // Creating ArrayList 'a' to store colors
 	        ArrayList<String> a = new ArrayList<>();
 	        // 1. Adding different colors
