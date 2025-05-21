@@ -5,22 +5,30 @@
 ---
 
 ### 1b) Array List programs
-- **Color Search output link** --(https://github.com/rithika2705/Advanced-java-programs/blob/main/prg1-listinterface/1b_1(color%20search).png)
-- **Color Remove output link**-- (https://github.com/rithika2705/Advanced-java-programs/blob/main/prg1listinterface/1b_1(color%20remove).png)
-- **Color Sort output link**--(https://github.com/rithika2705/Advanced-java-programs/blob/main/prg1listinterface/1b_1(color%20sort).png)
-- **Color Extract output link**--(https://github.com/rithika2705/Advanced-java-programs/blob/main/prg1listinterface/1b_1(color%20extract).png)
-- **Color Delete output link**--(https://github.com/rithika2705/Advanced-java-programs/blob/main/prg1listinterface/1b_1(color%20delete).png)
+- **Color Search output link** --(https://github.com/rithika2705/Advanced-java-programs-/blob/main/prg1-listinterface/1b_1(color%20search).png)
+- **Color Remove output link**-- (https://github.com/rithika2705/Advanced-java-programs-/blob/main/prg1-listinterface/1b_2(color%20remove).png)
+- **Color Sort output link**--(https://github.com/rithika2705/Advanced-java-programs-/blob/main/prg1-listinterface/1b_3(color%20sort).png)
+- **Color Extract output link**--(https://github.com/rithika2705/Advanced-java-programs-/blob/main/prg1-listinterface/1b_4(color%20extract).png)
+- **Color Delete output link**--(https://github.com/rithika2705/Advanced-java-programs-/blob/main/prg1-listinterface/1b_5(color%20delete).png
+)
 
 
 ---
 
-### 1c) Linked List Programs
 
-- **Iteration From Second position output link** --(https://github.com/rithika2705/Advanced-javaprograms/blob/main/prg1listinterface/1c_1(iteration%20from%202nd%20position).png)
-- **Reverse Iterator output link** --(https://github.com/rithika2705/Advanced-java-programs/blob/main/prg1-listinterface/1c_2(ReverseIterator).png)
-- **Insert at end output link** --(https://github.com/rithika2705/Advanced-java-programs/blob/main/prg1listinterface/1c_3(Insert%20at%20end).png)
-- **Display the elements** --(https://github.com/rithika2705/Advanced-javaprograms/blob/main/prg1listinterface/1c_4(display%20the%20elements).png)
-- **Swap elements**--(https://github.com/rithika2705/Advanced-java-programs/blob/main/prg1-listinterface/1c_5(swap%20elements.png)
+
+### 1c) Linked List Programs)
+
+
+
+
+- **Iteration From Second position output link** --(https://github.com/rithika2705/Advanced-java-programs-/blob/main/prg1-listinterface/1c_1(iteration%20from%202nd%20position).png)
+- **Reverse Iterator output link** --(https://github.com/rithika2705/Advanced-java-programs-/blob/main/prg1-listinterface/1c_2(ReverseIterator).png)
+- **Insert at end output link** --(https://github.com/rithika2705/Advanced-java-programs-/blob/main/prg1-listinterface/1c_3(Insert%20at%20end).png)
+- **Display the elements** --(https://github.com/rithika2705/Advanced-java-programs-/blob/main/prg1-listinterface/1c_4(display%20the%20elements).png)
+- **Swap elements**--(https://github.com/rithika2705/Advanced-java-programs-/blob/main/prg1-listinterface/1c_5(swap%20elements.png
+
+
 
 ---
 
