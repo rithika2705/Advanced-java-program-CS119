@@ -1,6 +1,6 @@
 /*
  Q3b_3-->. Write a Java Program for Reversing the characters in a string using user defined function
-reverseString().
+reverseString(). 
  */
 package prg3a;
 import java.util.*;
