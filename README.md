@@ -58,51 +58,53 @@ Iteration Demonstration : Using for-each loop,Using Iterator
 
 ---
 ### 4) Swing1 excerixe programs
---**a)hello swing output link**-()
---**b)country button press output link**-()
---**c)image button output link**-()
+-**a)hello swing output link**-(https://github.com/rithika2705/Advanced-java-programs/blob/main/prg4-Swings/4a(hello%20swings).png)
+-**b)country button press output link**-(https://github.com/rithika2705/Advanced-java-programs/blob/main/prg4-Swings/4b(country%20button%20).png)
+-**c)image button output link**-(https://github.com/rithika2705/Advanced-java-programs/blob/main/prg4-Swings/4c(image%20button).png)
 
 ---
 ### 5) Swing2 excerixe programs
---**a)country list selector output link**-()
---**b)color tabbed pane1 output link**-()
---**c)country capital list output link**-()
---**d)color tabbed pane cmy ouput link**-()
-
+-**a)country list selector output link**-(https://github.com/rithika2705/Advanced-java-programs/blob/main/prg5-swing2/5a(CountryListSelector).png)
+-**b)color tabbed pane1 output link**-(https://github.com/rithika2705/Advanced-java-programs/blob/main/prg5-swing2/5b(ColorTabbedPane1).png)
+-**c)country capital list output link**-(https://github.com/rithika2705/Advanced-java-programs/blob/main/prg5-swing2/5c(CountryCapitalList).png)
+-**d)color tabbed pane cmy ouput link**-(https://github.com/rithika2705/Advanced-java-programs/blob/main/prg5-swing2/5d-(ColorTabbedPaneCMY%20).png)
 
 ---
 
 ### 6)servlet excercise progrmas
 
---**a)factorial servlet output link**-*()
---**b)cookie servlet output link**-()
---**c)prime servlet output link**-()
-
+-**a)factorial servlet output link**-*(https://github.com/rithika2705/Advanced-java-programs/blob/main/prg6-servlet/FactorialServlet/6a-(FactorialServlet).png)
+-**b)cookie servlet output link**-(https://github.com/rithika2705/Advanced-java-programs/blob/main/prg6-servlet/CookieServlet/6b-(cookie%20servlet).png)
+-**c)prime servlet output link**-(https://github.com/rithika2705/Advanced-java-programs/blob/main/prg6-servlet/PrimeServlet/6c-(PrimeServlet).png)
 ---
 
 ### 7
---**cookie management output link 1**-()
---**cookie management output link 2**-()
+--**cookie management output link 1**-(https://github.com/rithika2705/Advanced-java-programs/blob/main/prg7-CookieManagement/7b-(c1).png)
+--**cookie management output link 2**-(https://github.com/rithika2705/Advanced-java-programs/blob/main/prg7-CookieManagement/7b-(c2).png)
 --**session management output link 1**-()
 --**session management output link 2**-()
 --**session management output link 3**-()
 
 ---
 ### 8 JDBC programs
---**a)insert coffee output link**-()
---**b)update coffee output link 1**-()
---**update coffee output link 2**-()
---**c)insert emp output link 1**-()
---**insert emp output link 2**-()
---**d)update emp output link 1**-()
+--**a)insert coffee output link**-(https://github.com/rithika2705/Advanced-java-programs/blob/main/prg%208-JDBC/8a-insert%20coffee/8a(insert%20cofee).png)
+--**b)update coffee output link 1**-(https://github.com/rithika2705/Advanced-java-programs/blob/main/prg%208-JDBC/8b-update%20coffee/8b-(update%20cofee1).png)
+--**update coffee output link 2**-(https://github.com/rithika2705/Advanced-java-programs/blob/main/prg%208-JDBC/8b-update%20coffee/8b-(update_cofee2).png)
+--**c)insert emp output link 1**-(https://github.com/rithika2705/Advanced-java-programs/blob/main/prg%208-JDBC/8c-insert%20emp/8c-(insert%20emp1).png)
+--**insert emp output link 2**-(https://github.com/rithika2705/Advanced-java-programs/blob/main/prg%208-JDBC/8c-insert%20emp/8c-(insert%20emp2).png)
+--**d)update emp output link 1**-(https://github.com/rithika2705/Advanced-java-programs/blob/main/prg%208-JDBC/8d-update%20emp/8d-(update%20emp).png)
+
 
 
 ---
 ### 9 JDBC programs
---**a) coffee delete output link**-()
---**b)query coffee d output link**-()
---**c)insert emp output link**-()
---**d) delete emp output link**-()
+--**a) coffee delete output link**-(https://github.com/rithika2705/Advanced-java-programs/blob/main/prg9-JDBC/9a-(coffee_delete)/9a(coffee%20delete).png)
+--**b)query coffee d output link**-(https://github.com/rithika2705/Advanced-java-programs/blob/main/prg9-JDBC/9b-(query_coffee_d)/9b(query%20coffee%20D).png)
+--**c)insert emp output link**-(https://github.com/rithika2705/Advanced-java-programs/blob/main/prg9-JDBC/9c-(insert%20emp_name)/9c-(insert%20emp%20name).png)
+--**d) delete emp output link**-(https://github.com/rithika2705/Advanced-java-programs/blob/main/prg9-JDBC/9d-(delete%20emp_name)/9d(delete%20emp-name).png)
+
+
+
 
 
 
