@@ -6,7 +6,7 @@ package swings;
 
 import java.awt.Color;
 import javax.swing.*;
-public class TabbedPaneExample {
+public class TabbedPaneExample { 
 JFrame f;
 TabbedPaneExample(){
 f=new JFrame();
