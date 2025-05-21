@@ -3,7 +3,7 @@
 function removeWhitespace()
  */
 package prg3a;
-import java.util.*;
+import java.util.*; 
 
 public class RemoveWhitespaceDemo {
 	    public static void main(String[] args) {
