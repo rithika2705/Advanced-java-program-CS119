@@ -7,7 +7,7 @@ Concatenation, String Splitting, StringBuilder Demo, String Formatting , Validat
 contains( ) and startsWith() and endsWith()
  */
 package prg3a;
-public class StringOperationsDemo {
+public class StringOperationsDemo { 
 	    public static void main(String[] args) {
 
 	        // 1. String Creation and Basic Operations
