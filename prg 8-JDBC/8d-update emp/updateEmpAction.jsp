@@ -2,7 +2,7 @@
 the table Emp of the database Employee using HTML and JSP to get the fields and display the
 results respectivelyy -->
 <%@ page language="java" contentType="text/html; charset=UTF-8"
-    pageEncoding="UTF-8"%>
+    pageEncoding="UTF-8"%> 
 <%@ page import="java.sql.*" %>
 <%
     String empNoStr = request.getParameter("empno");
