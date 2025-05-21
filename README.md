@@ -69,9 +69,13 @@
 ### 7
 - **cookie management output link 1**-(https://github.com/rithika2705/Advanced-java-programs/blob/main/prg7-CookieManagement/7b-(c1).png)
 - **cookie management output link 2**-(https://github.com/rithika2705/Advanced-java-programs/blob/main/prg7-CookieManagement/7b-(c2).png)
-  - **session management output link 1**-()
-- **session management output link 2**-()
-- **session management output link 3**-()
+ - **session management output link 1**-(https://github.com/rithika2705/Advanced-java-programs/blob/main/prg7-SessionManagement/7a-(s1).png)
+- **session management output link 2**-(https://github.com/rithika2705/Advanced-java-programs/blob/main/prg7-SessionManagement/7a-(s2).png)
+- **session management output link 3**-(https://github.com/rithika2705/Advanced-java-programs/blob/main/prg7-SessionManagement/7a-(s3).png)
+
+
+
+
 
 ---
 ### 8 JDBC programs
@@ -79,7 +83,7 @@
 - **b)update coffee output link 1**-(https://github.com/rithika2705/Advanced-java-programs/blob/main/prg%208-JDBC/8b-update%20coffee/8b-(update%20cofee1).png)
   - **update coffee output link 2**-(https://github.com/rithika2705/Advanced-java-programs/blob/main/prg%208-JDBC/8b-update%20coffee/8b-(update_cofee2).png)
 - **c)insert emp output link 1**-(https://github.com/rithika2705/Advanced-java-programs/blob/main/prg%208-JDBC/8c-insert%20emp/8c-(insert%20emp1).png)
-  - **insert emp output link 2**-(https://github.com/rithika2705/Advanced-java-programs/blob/main/prg%208-JDBC/8c-insert%20emp/8c-(insert%20emp2).png)
+ - **insert emp output link 2**-(https://github.com/rithika2705/Advanced-java-programs/blob/main/prg%208-JDBC/8c-insert%20emp/8c-(insert%20emp2).png)
 - **d)update emp output link 1**-(https://github.com/rithika2705/Advanced-java-programs/blob/main/prg%208-JDBC/8d-update%20emp/8d-(update%20emp).png)
 
 
