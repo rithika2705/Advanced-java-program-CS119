@@ -9,7 +9,7 @@ import java.awt.*;
 
 public class ColorTabbedPane {
     public static void main(String[] args) {
-        JFrame frame = new JFrame("Color Tabs");
+        JFrame frame = new JFrame("Color Tabs"); 
 
         JPanel cyanPanel = new JPanel();
         cyanPanel.setBackground(Color.CYAN);
