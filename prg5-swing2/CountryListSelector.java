@@ -4,7 +4,7 @@ Denmark, France, Great Britain, Japan, Africa, Greenland, Singapore into a JList
 display them on console whenever the countries are selected on the list.
  */
 package swings;
-
+ 
 import java.util.List;
 import javax.swing.DefaultListModel;
 import javax.swing.JFrame;
