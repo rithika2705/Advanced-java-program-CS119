@@ -4,7 +4,7 @@ defined function truncate()
  */
 package prg3a;
 import java.util.*;
-public class ShorteningAString {
+public class ShorteningAString { 
 	    public static void main(String[] args) {
 	        Scanner sc = new Scanner(System.in);
 
