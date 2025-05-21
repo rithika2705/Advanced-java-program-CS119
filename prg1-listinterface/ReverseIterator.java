@@ -8,7 +8,7 @@ public class ReverseIterator {
 	        // Creating LinkedList 'l' and adding colors
 	        LinkedList<String> l = new LinkedList<>();
 	        l.add("Red");
-	        l.add("Green");
+	        l.add("Green"); 
 	        l.add("Blue"); 
 	        l.add("Yellow");
 	        l.add("Black");
