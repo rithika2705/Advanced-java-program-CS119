@@ -106,14 +106,15 @@ Iteration Demonstration : Using for-each loop,Using Iterator
 
 ### 3a)String operations
 - **String operation demo output link**--(https://github.com/rithika2705/Advanced-java-programs/blob/main/prg3-StringOperations/3a-(String%20operations%20demo).png)
-  
+
+- --
  ### 3b)String Exercise progams
 - **check null or whitespace output link**--(https://github.com/rithika2705/Advanced-java-programs/blob/main/prg3-StringOperations/3b_1(check%20null%20or%20whitespace).png)
 - **substring counter output link** -(https://github.com/rithika2705/Advanced-java-programs/blob/main/prg3-StringOperations/3b_2(substring%20counter).png)
 - **reverse string demo output link**-(https://github.com/rithika2705/Advanced-java-programs/blob/main/prg3-StringOperations/3b_3(reverse%20string%20demo).png)
 - **palindrome output link**-( https://github.com/rithika2705/Advanced-java-programs/blob/main/prg3-StringOperations/3b_4(palindrome).png)
 - **remove white space output link**-( https://github.com/rithika2705/Advanced-java-programs/blob/main/prg3-StringOperations/3b_5(remove%20white%20spaces).png )
-
+---
   ### 3c)String Exercise progams
   - **capitalize words demo output link**-(https://github.com/rithika2705/Advanced-java-programs/blob/main/prg3-StringOperations/3c_1(capitalize%20words%20demo).png)
   - **shortening a string output link**-( https://github.com/rithika2705/Advanced-java-programs/blob/main/prg3-StringOperations/3c_2(ShorteningAString).png)
