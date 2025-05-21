@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<!-- saved from url=(0034)http://localhost:8080/7b/index.jsp -->
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Cookie List Management</title>
+<style>
+.cookie-table {
+border-collapse: collapse;
+width: 60%;
+margin: 20px 0;
+}
+.cookie-table th, .cookie-table td {
+border: 1px solid #ddd;
+padding: 8px;
+text-align: left;
+}
+.cookie-table th {
+background-color: #f2f2f2;
+}
+.form-group {
+margin: 15px 0;
+}
+.auto-refresh {
+color: #666;
+font-size: 0.9em;
+margin-bottom: 10px;
+}
+</style>
+<script>
+// Auto refresh page every 1 second to update cookie list
+setTimeout(function() {
+window.location.reload();
+}, 100000);
+</script>
+</head>
+<body class="vsc-initialized">
+<h2>Cookie List Management</h2>
+<!-- Form to set cookies -->
+<form action="http://localhost:8080/7b/setCookie.jsp" method="post">
+<h3>Set New Cookie</h3>
+<div class="form-group">
+</div><div class="form-group">
+</div><div class="form-group">
+</div><table>
+<tbody><tr><td><label>Cookie Name:</label></td>
+
+<td><input type="text" name="cookieName" required=""></td>
+</tr>
+
+<tr><td><label>Domain:</label></td>
+<td><input type="text" name="domain" required=""></td></tr>
+
+<tr><td><label>Max Age (seconds):</label></td>
+<td><input type="number" name="maxAge" value="10" required="">
+</td></tr> 
+</tbody></table>
+<input type="submit" value="Add Cookie">
+</form>
+<hr>
+<!-- Display list of set cookies -->
+<h3>List of Active Cookies</h3>
+<p class="auto-refresh">List updates automatically when cookies expire</p>
+<table class="cookie-table">
+<thead>
+<tr>
+<th>Cookie Name</th>
+<th>Domain</th>
+<th>Max Age (seconds)</th>
+</tr>
+</thead>
+<tbody>
+
+<tr>
+<td colspan="3" style="text-align: center;">No active cookies</td>
+</tr>
+
+</tbody>
+</table>
+
+</body><chatgpt-sidebar><template shadowrootmode="open"></template></chatgpt-sidebar></html>
