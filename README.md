@@ -31,8 +31,10 @@
 
 
 ---
+### 2) String Buffer
+-**Performance test output link** --(https://github.com/rithika2705/Advanced-java-program-CS119/blob/main/prg2_PerformanceTest/2(PerformanceTest).png)
 
-
+---
 ### 3a)String operations
 - **String operation demo output link**--(https://github.com/rithika2705/Advanced-java-program-CS119/blob/main/prg3-StringOperations/3a-(String%20_operations%20demo).png)
 
