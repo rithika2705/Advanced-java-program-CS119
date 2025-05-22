@@ -1,6 +1,6 @@
 ### 1a) List operations
 
-- **list opertation1 output link**-[output](https://github.com/rithika2705/Advanced-java-program-CS119/blob/main/prg1-listinterface/list_operations1_.png)
+- **list opertation1 output link**-(https://github.com/rithika2705/Advanced-java-program-CS119/blob/main/prg1-listinterface/list_operations1_.png)
 - **list operation2 output lint**--(https://github.com/rithika2705/Advanced-java-program-CS119/blob/main/prg1-listinterface/list_operations_2.png)
 ---
 
