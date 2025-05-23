@@ -1,1 +1,2 @@
- 
+ - **c)insert emp output link 1**-[output1](https://github.com/rithika2705/Advanced-java-program-CS119/blob/main/prg%208-JDBC/8c-insert%20emp/8c-(insert_emp1).png)
+ - **insert emp output link 2**-[output2](https://github.com/rithika2705/Advanced-java-program-CS119/blob/main/prg%208-JDBC/8c-insert%20emp/8c-(insert_emp2).png)
