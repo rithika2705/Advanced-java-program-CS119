@@ -1,7 +1,7 @@
 ### 1a) List operations
 
-- **list opertation1 output link**-[output](https://github.com/rithika2705/Advanced-java-program-CS119/blob/main/prg1-listinterface/list_operations1_.png)
-- **list operation2 output lint**--[output](https://github.com/rithika2705/Advanced-java-program-CS119/blob/main/prg1-listinterface/list_operations_2.png)
+- **list opertation1 output link**-[output1](https://github.com/rithika2705/Advanced-java-program-CS119/blob/main/prg1-listinterface/list_operations1_.png)
+- **list operation2 output lint**--[output2](https://github.com/rithika2705/Advanced-java-program-CS119/blob/main/prg1-listinterface/list_operations_2.png)
 ---
 
 ### 1b) Array List programs
@@ -71,17 +71,17 @@
 
 ### 6)servlet excercise progrmas
 
-- **a)factorial servlet output link**-*(https://github.com/rithika2705/Advanced-java-program-CS119/blob/main/prg6-servlet/CookieServlet/6b-(cookieservlet).png)
-- **b)cookie servlet output link**-(https://github.com/rithika2705/Advanced-java-program-CS119/blob/main/prg6-servlet/FactorialServlet/6a-(Factorial%20Servlet).png)
-- **c)prime servlet output link**-(https://github.com/rithika2705/Advanced-java-program-CS119/blob/main/prg6-servlet/PrimeServlet/6c-(Prime%20Servlet).png)
+- **a)factorial servlet output link**-[output](https://github.com/rithika2705/Advanced-java-program-CS119/blob/main/prg6-servlet/CookieServlet/6b-(cookieservlet).png)
+- **b)cookie servlet output link**-[output](https://github.com/rithika2705/Advanced-java-program-CS119/blob/main/prg6-servlet/FactorialServlet/6a-(Factorial%20Servlet).png)
+- **c)prime servlet output link**-[output](https://github.com/rithika2705/Advanced-java-program-CS119/blob/main/prg6-servlet/PrimeServlet/6c-(Prime%20Servlet).png)
 ---
 
 ### 7 session and cookie management
-- **cookie management output link 1**-(https://github.com/rithika2705/Advanced-java-program-CS119/blob/main/prg7-CookieManagement/7b-(c2).png)
-- **cookie management output link 2**-(https://github.com/rithika2705/Advanced-java-program-CS119/blob/main/prg7-CookieManagement/7b_%20(c1).png)
- - **session management output link 1**-(https://github.com/rithika2705/Advanced-java-program-CS119/blob/main/prg7-SessionManagement/7a_(%20s1).png)
-- **session management output link 2**-(https://github.com/rithika2705/Advanced-java-program-CS119/blob/main/prg7-SessionManagement/7a_(s2).png)
-- **session management output link 3**-(https://github.com/rithika2705/Advanced-java-program-CS119/blob/main/prg7-SessionManagement/7a-(s3).png)
+- **cookie management output link 1**-[output1](https://github.com/rithika2705/Advanced-java-program-CS119/blob/main/prg7-CookieManagement/7b-(c2).png)
+- **cookie management output link 2**-[output2](https://github.com/rithika2705/Advanced-java-program-CS119/blob/main/prg7-CookieManagement/7b_%20(c1).png)
+ - **session management output link 1**-[output1](https://github.com/rithika2705/Advanced-java-program-CS119/blob/main/prg7-SessionManagement/7a_(%20s1).png)
+- **session management output link 2**-[output2](https://github.com/rithika2705/Advanced-java-program-CS119/blob/main/prg7-SessionManagement/7a_(s2).png)
+- **session management output link 3**-[output3](https://github.com/rithika2705/Advanced-java-program-CS119/blob/main/prg7-SessionManagement/7a-(s3).png)
 
 
 
@@ -89,21 +89,21 @@
 
 ---
 ### 8 JDBC programs
-- **a)insert coffee output link**-(https://github.com/rithika2705/Advanced-java-program-CS119/blob/main/prg%208-JDBC/8a-insert%20coffee/8a(insert_cofee).png)
-- **b)update coffee output link 1**-(https://github.com/rithika2705/Advanced-java-program-CS119/blob/main/prg%208-JDBC/8b-update%20coffee/8b-(update_coffee1).png)
- - **update coffee output link 2**-(https://github.com/rithika2705/Advanced-java-program-CS119/blob/main/prg%208-JDBC/8b-update%20coffee/8b-(update_coffee2).png)
-- **c)insert emp output link 1**-(https://github.com/rithika2705/Advanced-java-program-CS119/blob/main/prg%208-JDBC/8c-insert%20emp/8c-(insert_emp1).png)
- - **insert emp output link 2**-(https://github.com/rithika2705/Advanced-java-program-CS119/blob/main/prg%208-JDBC/8c-insert%20emp/8c-(insert_emp2).png)
-- **d)update emp output link**-(https://github.com/rithika2705/Advanced-java-program-CS119/blob/main/prg%208-JDBC/8d-update%20emp/8d-(update_emp).png)
+- **a)insert coffee output link**-[output](https://github.com/rithika2705/Advanced-java-program-CS119/blob/main/prg%208-JDBC/8a-insert%20coffee/8a(insert_cofee).png)
+- **b)update coffee output link 1**-[output1](https://github.com/rithika2705/Advanced-java-program-CS119/blob/main/prg%208-JDBC/8b-update%20coffee/8b-(update_coffee1).png)
+ - **update coffee output link 2**-[output2](https://github.com/rithika2705/Advanced-java-program-CS119/blob/main/prg%208-JDBC/8b-update%20coffee/8b-(update_coffee2).png)
+- **c)insert emp output link 1**-[output1](https://github.com/rithika2705/Advanced-java-program-CS119/blob/main/prg%208-JDBC/8c-insert%20emp/8c-(insert_emp1).png)
+ - **insert emp output link 2**-[output2](https://github.com/rithika2705/Advanced-java-program-CS119/blob/main/prg%208-JDBC/8c-insert%20emp/8c-(insert_emp2).png)
+- **d)update emp output link**-[output3](https://github.com/rithika2705/Advanced-java-program-CS119/blob/main/prg%208-JDBC/8d-update%20emp/8d-(update_emp).png)
 
 
 
 ---
 ### 9 JDBC programs
-- **a) coffee delete output link**-(https://github.com/rithika2705/Advanced-java-program-CS119/blob/main/prg9-JDBC/9a-(coffee_delete)/9a(coffee_delete).png)
-- **b)query coffee d output link**-(https://github.com/rithika2705/Advanced-java-program-CS119/blob/main/prg9-JDBC/9b-(query_coffee_d)/9b(query%20coffee%20D).png)
-- **c)insert emp output link**-(https://github.com/rithika2705/Advanced-java-program-CS119/blob/main/prg9-JDBC/9c-(insert%20emp_name)/9c-(insert-%20emp%20name).png)
-- **d) delete emp output link**-(https://github.com/rithika2705/Advanced-java-program-CS119/blob/main/prg9-JDBC/9d-(delete%20emp_name)/9d(delete%20-emp-name).png)
+- **a) coffee delete output link**-[output](https://github.com/rithika2705/Advanced-java-program-CS119/blob/main/prg9-JDBC/9a-(coffee_delete)/9a(coffee_delete).png)
+- **b)query coffee d output link**-[output](https://github.com/rithika2705/Advanced-java-program-CS119/blob/main/prg9-JDBC/9b-(query_coffee_d)/9b(query%20coffee%20D).png)
+- **c)insert emp output link**-[output](https://github.com/rithika2705/Advanced-java-program-CS119/blob/main/prg9-JDBC/9c-(insert%20emp_name)/9c-(insert-%20emp%20name).png)
+- **d) delete emp output link**-[output](https://github.com/rithika2705/Advanced-java-program-CS119/blob/main/prg9-JDBC/9d-(delete%20emp_name)/9d(delete%20-emp-name).png)
 
 
 
