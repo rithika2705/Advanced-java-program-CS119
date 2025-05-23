@@ -1,1 +1,1 @@
-
+- **b)query coffee d output link**-[output](https://github.com/rithika2705/Advanced-java-program-CS119/blob/main/prg9-JDBC/9b-(query_coffee_d)/9b(query%20coffee%20D).png)
