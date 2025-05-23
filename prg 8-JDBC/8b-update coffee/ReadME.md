@@ -1,1 +1,2 @@
- 
+- **b)update coffee output link 1**-[output1](https://github.com/rithika2705/Advanced-java-program-CS119/blob/main/prg%208-JDBC/8b-update%20coffee/8b-(update_coffee1).png)
+ - **update coffee output link 2**-[output2](https://github.com/rithika2705/Advanced-java-program-CS119/blob/main/prg%208-JDBC/8b-update%20coffee/8b-(update_coffee2).png) 
