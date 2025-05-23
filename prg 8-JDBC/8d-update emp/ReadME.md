@@ -1,1 +1,1 @@
- 
+- **d)update emp output link**-[output3](https://github.com/rithika2705/Advanced-java-program-CS119/blob/main/prg%208-JDBC/8d-update%20emp/8d-(update_emp).png) 
