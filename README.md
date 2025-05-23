@@ -48,24 +48,24 @@
 ---
   ### 3c)String Exercise progams
   - **capitalize words demo output link**-[output](https://github.com/rithika2705/Advanced-java-program-CS119/blob/main/prg3-StringOperations/3c_1(capitalize%20_words%20demo).png)
-  - **shortening a string output link**-( https://github.com/rithika2705/Advanced-java-program-CS119/blob/main/prg3-StringOperations/3c_2(Shortening_AString).png)
-  - **numeric check output link**-(https://github.com/rithika2705/Advanced-java-program-CS119/blob/main/prg3-StringOperations/3c_3(Numeric%20%20check).png)
-  - **random string output linl**-(https://github.com/rithika2705/Advanced-java-program-CS119/blob/main/prg3-StringOperations/3c_4(random%20%20string).png )
-  - **word counter output link**-( https://github.com/rithika2705/Advanced-java-program-CS119/blob/main/prg3-StringOperations/3c_5(word%20%20counter).png)
+  - **shortening a string output link**-[output]( https://github.com/rithika2705/Advanced-java-program-CS119/blob/main/prg3-StringOperations/3c_2(Shortening_AString).png)
+  - **numeric check output link**-[output](https://github.com/rithika2705/Advanced-java-program-CS119/blob/main/prg3-StringOperations/3c_3(Numeric%20%20check).png)
+  - **random string output linl**-[output](https://github.com/rithika2705/Advanced-java-program-CS119/blob/main/prg3-StringOperations/3c_4(random%20%20string).png )
+  - **word counter output link**-[output]( https://github.com/rithika2705/Advanced-java-program-CS119/blob/main/prg3-StringOperations/3c_5(word%20%20counter).png)
   
 
 ---
 ### 4) Swing1 excerixe programs
-- **a)hello swing output link**-(https://github.com/rithika2705/Advanced-java-program-CS119/blob/main/prg4-Swings/4a(hello_swings).png)
-- **b)country button press output link**-(https://github.com/rithika2705/Advanced-java-program-CS119/blob/main/prg4-Swings/4b(country_%20button%20).png)
-- **c)image button output link**-(https://github.com/rithika2705/Advanced-java-program-CS119/blob/main/prg4-Swings/4c(image%20_button).png)
+- **a)hello swing output link**-[output](https://github.com/rithika2705/Advanced-java-program-CS119/blob/main/prg4-Swings/4a(hello_swings).png)
+- **b)country button press output link**-[output](https://github.com/rithika2705/Advanced-java-program-CS119/blob/main/prg4-Swings/4b(country_%20button%20).png)
+- **c)image button output link**-[output](https://github.com/rithika2705/Advanced-java-program-CS119/blob/main/prg4-Swings/4c(image%20_button).png)
 
 ---
 ### 5) Swing2 excerixe programs
-- **a)country list selector output link**-(https://github.com/rithika2705/Advanced-java-program-CS119/blob/main/prg5-swing2/5a(Country%20ListSelector).png)
-- **b)color tabbed pane1 output link**-(https://github.com/rithika2705/Advanced-java-program-CS119/blob/main/prg5-swing2/5b(Color%20TabbedPane1).png)
-- **c)country capital list output link**-(https://github.com/rithika2705/Advanced-java-program-CS119/blob/main/prg5-swing2/5c(Country%20CapitalList).png)
-- **d)color tabbed pane cmy ouput link**-(https://github.com/rithika2705/Advanced-java-program-CS119/blob/main/prg5-swing2/5d-(Color%20TabbedPaneCMY%20).png)
+- **a)country list selector output link**-[output](https://github.com/rithika2705/Advanced-java-program-CS119/blob/main/prg5-swing2/5a(Country%20ListSelector).png)
+- **b)color tabbed pane1 output link**-[output](https://github.com/rithika2705/Advanced-java-program-CS119/blob/main/prg5-swing2/5b(Color%20TabbedPane1).png)
+- **c)country capital list output link**-[output](https://github.com/rithika2705/Advanced-java-program-CS119/blob/main/prg5-swing2/5c(Country%20CapitalList).png)
+- **d)color tabbed pane cmy ouput link**-[output](https://github.com/rithika2705/Advanced-java-program-CS119/blob/main/prg5-swing2/5d-(Color%20TabbedPaneCMY%20).png)
 
 ---
 
