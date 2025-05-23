@@ -1,15 +1,15 @@
 ### 1a) List operations
 
-- **list opertation1 output link**-[list_operations1](https://github.com/rithika2705/Advanced-java-program-CS119/blob/main/prg1-listinterface/list_operations1_.png)
-- **list operation2 output lint**--[list_operations_2](https://github.com/rithika2705/Advanced-java-program-CS119/blob/main/prg1-listinterface/list_operations_2.png)
+- **list opertation1 output link**-[output](https://github.com/rithika2705/Advanced-java-program-CS119/blob/main/prg1-listinterface/list_operations1_.png)
+- **list operation2 output lint**--[output](https://github.com/rithika2705/Advanced-java-program-CS119/blob/main/prg1-listinterface/list_operations_2.png)
 ---
 
 ### 1b) Array List programs
-- **Color Search output link** --[color_search](https://github.com/rithika2705/Advanced-java-program-CS119/blob/main/prg1-listinterface/1b_1(color_search).png)
-- **Color Remove output link**--[color%20_remove](https://github.com/rithika2705/Advanced-java-program-CS119/blob/main/prg1-listinterface/1b_2(color%20_remove).png)
-- **Color Sort output link**--[color%20_sort](https://github.com/rithika2705/Advanced-java-program-CS119/blob/main/prg1-listinterface/1b_3(color%20_sort).png)
-- **Color Extract output link**--[color_extract](https://github.com/rithika2705/Advanced-java-program-CS119/blob/main/prg1-listinterface/1b_4(color_extract).png)
-- **Color Delete output link**--[color_delete](https://github.com/rithika2705/Advanced-java-program-CS119/blob/main/prg1-listinterface/1b_5(color_delete).png)
+- **Color Search output link** --[output](https://github.com/rithika2705/Advanced-java-program-CS119/blob/main/prg1-listinterface/1b_1(color_search).png)
+- **Color Remove output link**--[output](https://github.com/rithika2705/Advanced-java-program-CS119/blob/main/prg1-listinterface/1b_2(color%20_remove).png)
+- **Color Sort output link**--[output](https://github.com/rithika2705/Advanced-java-program-CS119/blob/main/prg1-listinterface/1b_3(color%20_sort).png)
+- **Color Extract output link**--[output](https://github.com/rithika2705/Advanced-java-program-CS119/blob/main/prg1-listinterface/1b_4(color_extract).png)
+- **Color Delete output link**--[output](https://github.com/rithika2705/Advanced-java-program-CS119/blob/main/prg1-listinterface/1b_5(color_delete).png)
 
 
 
@@ -22,26 +22,26 @@
 
 
 
-- **Iteration From Second position output link** --[iteration_from%20_2nd%20_position](https://github.com/rithika2705/Advanced-java-program-CS119/blob/main/prg1-listinterface/1c_1(iteration_from%20_2nd%20_position).png)
-- **Reverse Iterator output link** --[list_operations_2](https://github.com/rithika2705/Advanced-java-program-CS119/blob/main/prg1-listinterface/1c_2(Reverse_Iterator).png)
-- **Insert at end output link** --[list_operations_2](https://github.com/rithika2705/Advanced-java-program-CS119/blob/main/prg1-listinterface/1c_3(Insert%20_at%20_end).png)
-- **Display the elements** --[list_operations_2](https://github.com/rithika2705/Advanced-java-program-CS119/blob/main/prg1-listinterface/1c_4(display%20_the%20_elements).png)
-- **Swap elements**--[list_operations_2](https://github.com/rithika2705/Advanced-java-program-CS119/blob/main/prg1-listinterface/1c_5(swap%20_elements.png)
+- **Iteration From Second position output link** --[output](https://github.com/rithika2705/Advanced-java-program-CS119/blob/main/prg1-listinterface/1c_1(iteration_from%20_2nd%20_position).png)
+- **Reverse Iterator output link** --[output](https://github.com/rithika2705/Advanced-java-program-CS119/blob/main/prg1-listinterface/1c_2(Reverse_Iterator).png)
+- **Insert at end output link** --[output](https://github.com/rithika2705/Advanced-java-program-CS119/blob/main/prg1-listinterface/1c_3(Insert%20_at%20_end).png)
+- **Display the elements** --[output](https://github.com/rithika2705/Advanced-java-program-CS119/blob/main/prg1-listinterface/1c_4(display%20_the%20_elements).png)
+- **Swap elements**--[output](https://github.com/rithika2705/Advanced-java-program-CS119/blob/main/prg1-listinterface/1c_5(swap%20_elements.png)
 
 
 
 ---
 ### 2) String Buffer
--**Performance test output link** --(https://github.com/rithika2705/Advanced-java-program-CS119/blob/main/prg2_PerformanceTest/2(PerformanceTest).png)
+-**Performance test output link** --[output](https://github.com/rithika2705/Advanced-java-program-CS119/blob/main/prg2_PerformanceTest/2(PerformanceTest).png)
 
 ---
 ### 3a)String operations
-- **String operation demo output link**--(https://github.com/rithika2705/Advanced-java-program-CS119/blob/main/prg3-StringOperations/3a-(String%20_operations%20demo).png)
+- **String operation demo output link**--[output](https://github.com/rithika2705/Advanced-java-program-CS119/blob/main/prg3-StringOperations/3a-(String%20_operations%20demo).png)
 
 - --
  ### 3b)String Exercise progams
-- **check null or whitespace output link**--(https://github.com/rithika2705/Advanced-java-program-CS119/blob/main/prg3-StringOperations/3b_1(check%20_null%20or%20whitespace).png)
-- **substring counter output link** -(https://github.com/rithika2705/Advanced-java-program-CS119/blob/main/prg3-StringOperations/3b_2(substring%20_counter).png)
+- **check null or whitespace output link**--[output](https://github.com/rithika2705/Advanced-java-program-CS119/blob/main/prg3-StringOperations/3b_1(check%20_null%20or%20whitespace).png)
+- **substring counter output link** -[output](https://github.com/rithika2705/Advanced-java-program-CS119/blob/main/prg3-StringOperations/3b_2(substring%20_counter).png)
 - **reverse string demo output link**-(https://github.com/rithika2705/Advanced-java-program-CS119/blob/main/prg3-StringOperations/3b_3(reverse%20_string%20demo).png)
 - **palindrome output link**-(https://github.com/rithika2705/Advanced-java-program-CS119/blob/main/prg3-StringOperations/3b_4%20(palindrome).png)
 - **remove white space output link**-(https://github.com/rithika2705/Advanced-java-program-CS119/blob/main/prg3-StringOperations/3b_5(removewhite%20spaces).png)
