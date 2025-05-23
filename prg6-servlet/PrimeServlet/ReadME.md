@@ -1,1 +1,1 @@
- 
+- **c)prime servlet output link**-[output](https://github.com/rithika2705/Advanced-java-program-CS119/blob/main/prg6-servlet/PrimeServlet/6c-(Prime%20Servlet).png)
