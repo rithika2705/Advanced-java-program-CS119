@@ -1,0 +1,1 @@
+- **c)insert emp output link**-[output](https://github.com/rithika2705/Advanced-java-program-CS119/blob/main/prg9-JDBC/9c-(insert%20emp_name)/9c-(insert-%20emp%20name).png)
